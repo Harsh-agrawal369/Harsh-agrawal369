@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-agrawal369&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-agrawal369" /> </p>
 
-- 🔭 I’m currently working on [BiteJoy - Food Delivery Application](https://github.com/Harsh-agrawal369/BiteJoy---Food-Delivery)
+<!-- 🔭 I’m currently working on [BiteJoy - Food Delivery Application](https://github.com/Harsh-agrawal369/BiteJoy---Food-Delivery) -->
 
 - 🌱 I’m currently learning **MERN Stack**
 
